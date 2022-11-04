@@ -1,3 +1,3 @@
 # Kaggle-Datasets
 
-This repository contains some of the kaggle datasets solution aproched by me.
+This repository contains some of the Kaggle datasets solutions that approached by me.
